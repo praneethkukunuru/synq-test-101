@@ -3,10 +3,13 @@ Hello and this is my change
 I am making a change
 I will make a new line here
 And here     
+
 This is a change
 And so is this 
 I'll make a change here
 please work 
+this is also a change
+that i amde
 ok, now here is a change
 can you see it
 here is more work 
