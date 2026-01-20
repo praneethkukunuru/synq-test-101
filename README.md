@@ -7,6 +7,7 @@ And here
 This is a change that I am making
 And here
 Hello are 
+These here are supposed to inserted changes
 I am making a change here
 This is a big change
 Can you do this 
