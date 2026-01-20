@@ -6,7 +6,6 @@ And here
 This is a change
 And so is this 
 I'll make a change here
-
 please work 
 ok, now here is a change
 can you see it
