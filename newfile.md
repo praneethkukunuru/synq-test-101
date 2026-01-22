@@ -8,6 +8,8 @@ This is a change
 And so is this 
 I'll make a change here
 please work 
+lets a
+make cha ge
 this is also a change
 that i amde
 ok, now here is a change
