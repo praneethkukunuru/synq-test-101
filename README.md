@@ -1,10 +1,17 @@
 # synq-test-101
 Hello and this is my change
+This is a change
+and this 
+and thi s
+and this 
 I am making a change
 I will make a new line here
 And here     
 This is a change
 And so is this 
+this is a new 
+change
+and this 
 I'll make a change here
 please work 
 ok, now here is a change
@@ -14,6 +21,7 @@ and do nothing
 Insert change v2 does it show up
 Insert more changes v3 
 and here
+
 and so is this is 
 This is a change that I am making
 And here
