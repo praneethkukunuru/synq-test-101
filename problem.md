@@ -1,6 +1,9 @@
 # synq-test-101
 Hello and this is my change
 I am making a change
+dfghjkl
+fghjk
+ghnjmk,l.;
 I will make a new line here
 And here     
 This is a change
@@ -24,6 +27,8 @@ snd
 this 
 and this 
 Insert change v2 does it show up
+so is thghis 
+sdfghj
 Insert more changes v3 
 and here
 and so is this is 
