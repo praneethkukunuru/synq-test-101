@@ -5,6 +5,9 @@ dfghjkl
 fghjk
 ghnjmk,l.;
 I will make a new line here
+here is a chane
+and this 
+and this 
 And here     
 This is a change
 And so is this 
