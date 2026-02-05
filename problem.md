@@ -3,6 +3,10 @@ Hello and this is my change
 I am making a change
 dfghjkl
 fghjk
+this is my change
+here
+and there
+and here
 ghnjmk,l.;
 I will make a new line here
 here is a chane
