@@ -12,6 +12,9 @@ I'll make a change here
 
 please work 
 ok, now here is a change
+this is a change
+and this 
+and this 
 can you see it
 here is more work 
 and do nothing 
