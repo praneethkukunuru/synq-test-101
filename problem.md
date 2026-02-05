@@ -12,6 +12,10 @@ ok, now here is a change
 can you see it
 here is more work 
 and do nothing 
+this s 
+aksio a change
+and this 
+and this 
 Insert change v2 does it show up
 Insert more changes v3 
 and here
